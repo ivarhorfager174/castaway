@@ -1,0 +1,37 @@
+@media(max-width:1554px){
+    .container{
+        max-width: 1550px;
+        margin: 0 auto;
+        padding: 0 70px;
+    }
+    /*hero*/
+    .hero__content--title{
+        width: 31vw;
+    }
+    /*episode*/
+    .episode__item--title{
+        width: 42vw;
+        margin-bottom: 20px;
+    }
+    .episode__item--title span{
+        margin-top: 28px;
+        margin-bottom: 20px;
+    }
+
+    .episode__item--desc{
+        margin-bottom: 29px;
+    }
+    /*form*/
+    .form__title{
+        width: 28vw;
+    }
+
+    .form__input{
+        width: 38vw;
+    }
+
+    .review__item{
+        height: 50vh;
+    }
+
+}    
